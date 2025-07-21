@@ -1,0 +1,20 @@
+Cross-Validation Results:
+  Accuracy: 1.0000
+  Precision: 1.0000
+  Recall: 1.0000
+  F1 Score: 1.0000
+  AUC: 1.0000
+  Specificity: 1.0000
+
+Standard Errors:
+  SE of Accuracy: 0.0000
+  SE of Precision: 0.0000
+  SE of Recall: 0.0000
+  SE of F1 Score: 0.0000
+  SE of AUC: 0.0000
+  SE of Specificity: 0.0000
+Permutation Test Results:
+  Original Model Accuracy: 1.0000
+  Mean Permuted Accuracy: 0.4977
+  p-value: 0.0099
+  The model significantly outperforms random chance (p < 0.05).
