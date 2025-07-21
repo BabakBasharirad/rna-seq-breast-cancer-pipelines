@@ -32,6 +32,9 @@ reports/                        # Metrics and evaluation reports
 02_pipeline_02.ipynb
 03_pipeline_03.ipynb
 ```
+**Note:** The `data/` folder is not included in this repository due to size limitations.  
+Researchers interested in accessing the dataset structure or sample files may contact the author for more information.
+
 
 ## 📊 Results Summary
 
